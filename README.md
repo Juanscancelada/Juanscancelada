@@ -7,7 +7,8 @@
 
 - 📫 Como Buscarme **juan.cancelada@uniminuto.edu.co**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame aqui:</h3>
+https://www.linkedin.com/in/juan-sebasti%C3%A1n-cancelada-bustos-9b3278174/
 <p align="left">
 </p>
 
