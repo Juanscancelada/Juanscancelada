@@ -3,7 +3,7 @@
 <h3 align="left"> Sobre Mi: </h3>
 <p align="left"> Soy un programador junior con conocimientos en backend y fronted, apasionado por la tecnologia, con muchas ganas de aprender, fortalecer mis conocimientos y ganar experiencia como desarrolador</p>
 
-- 🌱 Actualmente estoy aprendiendo **Python, Java, HTML, CSS, PHP, JS, , Flask, MySQL**
+- 🌱 Actualmente estoy aprendiendo **Python con flask, JavaScript con node.JS, HTML, CSS, PHP, MySQL**
 
 - 📫 Como Buscarme **juan.cancelada@uniminuto.edu.co**
 
