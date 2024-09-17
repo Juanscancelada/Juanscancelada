@@ -4,7 +4,8 @@
 <p align="left"> Soy un programador junior con conocimientos en backend y fronted, apasionado por la tecnologia, con muchas ganas de aprender, fortalecer mis conocimientos y ganar experiencia como desarrolador</p>
 <img src="https://camo.githubusercontent.com/a43e54ea7f43ce7dfa74d08222db0978a28315efedd2255189431d83996f134b/68747470733a2f2f6d6172636f70696c6c6f6e692e636f6d2f5265736f75726365732f6176617461722e737667" align="right">
 
-- 🌱 Actualmente estoy aprendiendo **Python con flask, JavaScript, HTML, CSS, PHP, MySQL**
+- 🌱 Conocimientos en **PHP-Laravel, Python, JavaScript, HTML, CSS, MySQL,**
+- Actualmente estoy aprendiendo **Testing, API rest**
 
 - 📫 Como Buscarme **juan.cancelada@uniminuto.edu.co**
 
